@@ -29,7 +29,13 @@ techniques, and visualizes sentiment insights through an interactive Streamlit w
 - VADER Sentiment  
 - Plotly  
 - Streamlit  
-- Google Sheets API  
+- Google Sheets API
+  
+## Features
+- Real-time feedback classification
+- Google Sheets integration
+- Interactive Streamlit UI
+- Plotly charts for sentiment trends
 
 ---
 
