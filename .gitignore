@@ -1,0 +1,5 @@
+key.json
+results1.csv
+__pycache__/
+venv/
+.env
